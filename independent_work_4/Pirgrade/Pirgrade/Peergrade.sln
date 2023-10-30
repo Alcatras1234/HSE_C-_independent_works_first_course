@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peergrade", "Pirgrade\Peergrade.csproj", "{F5F8FC13-9A90-432C-9FC9-AF74ED2E6E68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EKRLib", "EKRLib\EKRLib.csproj", "{5843C627-2804-4ED0-8B4F-C984FF53B4D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F8FC13-9A90-432C-9FC9-AF74ED2E6E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F8FC13-9A90-432C-9FC9-AF74ED2E6E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F8FC13-9A90-432C-9FC9-AF74ED2E6E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F8FC13-9A90-432C-9FC9-AF74ED2E6E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5843C627-2804-4ED0-8B4F-C984FF53B4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5843C627-2804-4ED0-8B4F-C984FF53B4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5843C627-2804-4ED0-8B4F-C984FF53B4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5843C627-2804-4ED0-8B4F-C984FF53B4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0DBA9D-C438-4B0B-988F-B2CFFE6C10EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\education\прога\CP2\CP2\CP2\bin\Debug\net6.0\CP2.exe
+E:\education\прога\CP2\CP2\CP2\bin\Debug\net6.0\CP2.deps.json
+E:\education\прога\CP2\CP2\CP2\bin\Debug\net6.0\CP2.runtimeconfig.json
+E:\education\прога\CP2\CP2\CP2\bin\Debug\net6.0\CP2.dll
+E:\education\прога\CP2\CP2\CP2\bin\Debug\net6.0\CP2.pdb
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.csproj.AssemblyReference.cache
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.AssemblyInfoInputs.cache
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.AssemblyInfo.cs
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.csproj.CoreCompileInputs.cache
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.dll
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\refint\CP2.dll
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.pdb
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\CP2.genruntimeconfig.cache
+E:\education\прога\CP2\CP2\CP2\obj\Debug\net6.0\ref\CP2.dll

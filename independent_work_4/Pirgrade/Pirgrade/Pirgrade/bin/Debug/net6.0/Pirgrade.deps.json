@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pirgrade/1.0.0": {
+        "dependencies": {
+          "EKRLib": "1.0.0"
+        },
+        "runtime": {
+          "Pirgrade.dll": {}
+        }
+      },
+      "EKRLib/1.0.0": {
+        "runtime": {
+          "EKRLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pirgrade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EKRLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

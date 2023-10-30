@@ -1,0 +1,15 @@
+E:\education\2.11.22\CP1 second module\CP1 second module\bin\Debug\net6.0\CP1 second module.exe
+E:\education\2.11.22\CP1 second module\CP1 second module\bin\Debug\net6.0\CP1 second module.deps.json
+E:\education\2.11.22\CP1 second module\CP1 second module\bin\Debug\net6.0\CP1 second module.runtimeconfig.json
+E:\education\2.11.22\CP1 second module\CP1 second module\bin\Debug\net6.0\CP1 second module.dll
+E:\education\2.11.22\CP1 second module\CP1 second module\bin\Debug\net6.0\CP1 second module.pdb
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.csproj.AssemblyReference.cache
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.GeneratedMSBuildEditorConfig.editorconfig
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.AssemblyInfoInputs.cache
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.AssemblyInfo.cs
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.csproj.CoreCompileInputs.cache
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.dll
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\refint\CP1 second module.dll
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.pdb
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\CP1 second module.genruntimeconfig.cache
+E:\education\2.11.22\CP1 second module\CP1 second module\obj\Debug\net6.0\ref\CP1 second module.dll

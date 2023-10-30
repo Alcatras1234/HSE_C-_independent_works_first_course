@@ -1,0 +1,12 @@
+C:\HSE\c#\Pirgrade\EKRLib\bin\Debug\net6.0\EKRLib.deps.json
+C:\HSE\c#\Pirgrade\EKRLib\bin\Debug\net6.0\EKRLib.dll
+C:\HSE\c#\Pirgrade\EKRLib\bin\Debug\net6.0\EKRLib.pdb
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.csproj.AssemblyReference.cache
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfoInputs.cache
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfo.cs
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.dll
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\refint\EKRLib.dll
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\EKRLib.pdb
+C:\HSE\c#\Pirgrade\EKRLib\obj\Debug\net6.0\ref\EKRLib.dll

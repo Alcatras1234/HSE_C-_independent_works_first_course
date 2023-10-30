@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Peergrade/1.0.0": {
+        "dependencies": {
+          "EKRLib": "1.0.0"
+        },
+        "runtime": {
+          "Peergrade.dll": {}
+        }
+      },
+      "EKRLib/1.0.0": {
+        "runtime": {
+          "EKRLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Peergrade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EKRLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\bin\Debug\net6.0\EBookLib.deps.json
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\bin\Debug\net6.0\EBookLib.dll
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\bin\Debug\net6.0\EBookLib.pdb
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.csproj.AssemblyReference.cache
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.AssemblyInfoInputs.cache
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.AssemblyInfo.cs
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.csproj.CoreCompileInputs.cache
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.dll
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\refint\EBookLib.dll
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\EBookLib.pdb
+C:\HSE\c#\семинар\PeergradeSecond\ConsoleApp2\EBookLib\obj\Debug\net6.0\ref\EBookLib.dll
